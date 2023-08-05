@@ -13,7 +13,7 @@ import joblib
 # In[2]:
 
 
-model = joblib.load(r'Model\WBY_Prediction.joblib')
+model = joblib.load(r'Model/WBY_Prediction.joblib')
 
 
 # In[10]:
